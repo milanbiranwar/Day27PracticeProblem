@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milan\\source\\repos\\Day27PracticeProblem\\Day27PracticeProblem\\Day27PracticeProblem.csproj",
-      "projectName": "Day27PracticeProblem",
-      "projectPath": "C:\\Users\\milan\\source\\repos\\Day27PracticeProblem\\Day27PracticeProblem\\Day27PracticeProblem.csproj",
+      "projectUniqueName": "C:\\Users\\milan\\source\\repos\\Day27PracticeProblem\\Day27PracticeProblem\\Day27FileIO.csproj",
+      "projectName": "Day27FileIO",
+      "projectPath": "C:\\Users\\milan\\source\\repos\\Day27PracticeProblem\\Day27PracticeProblem\\Day27FileIO.csproj",
       "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\milan\\source\\repos\\Day27PracticeProblem\\Day27PracticeProblem\\obj\\",
       "projectStyle": "PackageReference",
